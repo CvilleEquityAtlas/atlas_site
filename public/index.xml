@@ -6,33 +6,34 @@
     <description>Recent content on CVille Equity Atlas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Nov 2018 11:25:05 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Nov 2018 11:15:58 -0400</lastBuildDate>
     
 	<atom:link href="https://cvilleequityatlas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>We have questions</title>
-      <link>https://cvilleequityatlas.github.io/post/chapter-6/</link>
-      <pubDate>Sat, 03 Nov 2018 11:25:05 -0400</pubDate>
+      <title>Can this work?</title>
+      <link>https://cvilleequityatlas.github.io/post/answers/</link>
+      <pubDate>Sat, 03 Nov 2018 11:15:58 -0400</pubDate>
       
-      <guid>https://cvilleequityatlas.github.io/post/chapter-6/</guid>
-      <description>Can we update or generate a post by editing a markdown file in github directly? Let&amp;rsquo;s see&amp;hellip;</description>
+      <guid>https://cvilleequityatlas.github.io/post/answers/</guid>
+      <description>To add a post, we need to first add it in atlas_site/content/post/new-post.md. Then regenerate the webiste by running the command hugo in the terminal (within the atlas_site folder). Then go ahead and git add . the files, git commit -m &amp;ldquo;appropriate message&amp;rdquo;, and git push origin master. But this only updates the site code in the atlas_site repo (github.com/CvilleEquityAtlas/atlas_site)
+To update the generated site, we cd into the public folder, and git add .</description>
     </item>
     
     <item>
-      <title>Chapter V: Quasimodo</title>
-      <link>https://cvilleequityatlas.github.io/post/chapter-5/</link>
-      <pubDate>Sat, 03 Nov 2018 11:15:58 -0400</pubDate>
+      <title>We have questions</title>
+      <link>https://cvilleequityatlas.github.io/post/questions/</link>
+      <pubDate>Fri, 02 Nov 2018 11:25:05 -0400</pubDate>
       
-      <guid>https://cvilleequityatlas.github.io/post/chapter-5/</guid>
-      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
+      <guid>https://cvilleequityatlas.github.io/post/questions/</guid>
+      <description>Can we update or generate a post by editing a markdown file in github directly? Let&amp;rsquo;s see&amp;hellip;</description>
     </item>
     
     <item>
       <title>Chapter IV: Master Jacques Coppenole</title>
       <link>https://cvilleequityatlas.github.io/post/chapter-4/</link>
-      <pubDate>Fri, 02 Nov 2018 11:14:48 -0400</pubDate>
+      <pubDate>Thu, 01 Nov 2018 11:14:48 -0400</pubDate>
       
       <guid>https://cvilleequityatlas.github.io/post/chapter-4/</guid>
       <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
