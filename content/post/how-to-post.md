@@ -6,6 +6,8 @@ featured_image: ""
 categories: []
 ---
 
+## Method the first: independent updates
+
 To directly add a post to this blog as a collaborator requires,
 
 1. If you don't yet have a [github account](https://github.com/), get one; download and install [git](https://git-scm.com/downloads). In the end, your life will be easier if you take the time to set up ssh as well -- I really like [Karl Broman's explanation](http://kbroman.org/github_tutorial/pages/first_time.html) of these steps.
@@ -65,3 +67,10 @@ bash publish_changes.sh
 ```
 
 (I believe git comes with a bash emulator for Windows, but I don't have a Windows machine to verify). This will rebuild the site and push the changes in the source code and site pages to github. Within a minute or so, the changes will be reflected on the webiste: [cvilleequityatlas.github.io](https://cvilleequityatlas.github.io/)!
+
+## Method the second: dependent updates
+
+If you don't want to do all that, you can follow steps 1 and 2 and make changes in the github repo directly.
+3. Once you're a collaborator, navigate to the [altas_site repo](https://github.com/CvilleEquityAtlas/atlas_site) and go to content/post.
+4. Click `Create new file` and fill in the name, name-of-post.md. Then start typing (using markdown for any formatting). Be sure to add the header information (by, for example, clicking on another post, clicking the edit icon/pencil, copying the header information, pasting it in your post, and the **adding the correct information, including date and time**).
+5. Email [me](mailto:mclaibourn@virginia.edu) and I'll fetch, build, and push it back up.
