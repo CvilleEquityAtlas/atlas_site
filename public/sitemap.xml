@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cvilleequityatlas.github.io/post/publish-changes/</loc>
+    <lastmod>2018-11-03T17:12:26-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://cvilleequityatlas.github.io/post/answers/</loc>
     <lastmod>2018-11-03T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -38,7 +45,7 @@
   
   <url>
     <loc>https://cvilleequityatlas.github.io/</loc>
-    <lastmod>2018-11-03T11:15:58-04:00</lastmod>
+    <lastmod>2018-11-03T17:12:26-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

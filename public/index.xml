@@ -6,10 +6,20 @@
     <description>Recent content on CVille Equity Atlas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Nov 2018 11:15:58 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Nov 2018 17:12:26 -0400</lastBuildDate>
     
 	<atom:link href="https://cvilleequityatlas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publish Changes</title>
+      <link>https://cvilleequityatlas.github.io/post/publish-changes/</link>
+      <pubDate>Sat, 03 Nov 2018 17:12:26 -0400</pubDate>
+      
+      <guid>https://cvilleequityatlas.github.io/post/publish-changes/</guid>
+      <description>In the atlas_site repo, I added a publish-changes.sh shell script to make updates a little simpler. Once a new post has been added (or any change) in atlas_site/content (or anywhere), from the terminal run
+bash publish_changes.sh  This will automatically rebuild the site (issue the command hugo), and add updates to both the source repo (atlas_site) and the website repo (cvilleequityatlas.github.io). And Bob&amp;rsquo;s your uncle.</description>
+    </item>
     
     <item>
       <title>Can this work?</title>

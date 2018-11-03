@@ -1,7 +1,7 @@
 ---
 title: "Publish Changes"
 date: 2018-11-03T17:12:26-04:00
-draft: true
+draft: false
 tags: []
 categories: []
 ---
