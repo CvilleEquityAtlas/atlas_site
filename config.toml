@@ -1,5 +1,5 @@
 title = "CVille Equity Atlas"
-baseURL = "https://example.com"
+baseURL = "https://cvilleequityatlas.github.io"
 languageCode = "en-us"
 theme = "ananke"
 
