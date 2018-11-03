@@ -6,10 +6,20 @@
     <description>Recent content on CVille Equity Atlas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Nov 2018 17:12:26 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Nov 2018 17:25:36 -0400</lastBuildDate>
     
 	<atom:link href="https://cvilleequityatlas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Post</title>
+      <link>https://cvilleequityatlas.github.io/post/how-to-post/</link>
+      <pubDate>Sat, 03 Nov 2018 17:25:36 -0400</pubDate>
+      
+      <guid>https://cvilleequityatlas.github.io/post/how-to-post/</guid>
+      <description>To directly add a post to this blog as a collaborator requires,
+ If you don&amp;rsquo;t yet have a github account, get one; download and install git. In the end, your life will be easier if you take the time to set up ssh as well &amp;ndash; I really like Karl Broman&amp;rsquo;s explanation of these steps. Be added as a collaborator to the organizational account, github.com/CvilleEquityAtlas Clone the atlas_site repo and the cvilleequityatals.</description>
+    </item>
     
     <item>
       <title>Publish Changes</title>
