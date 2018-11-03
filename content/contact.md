@@ -8,6 +8,12 @@ menu:
 ---
 
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+Tried adding a shortcode, based on [Formspree](https://formspree.io/). Need to test it, but if it works we can add an invitation here.
 
-{{< form-contact action="https://example.com"  >}}
+
+{{<form action="https://formspree.io/mclaibourn@virginia.edu"
+method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>>}}
