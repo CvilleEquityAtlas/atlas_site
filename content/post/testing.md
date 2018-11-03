@@ -1,7 +1,7 @@
 ---
 date: 2018-11-01T11:14:48-04:00
 description: "First blog post"
-featured_image: ""
+featured_image: "/images/Victor_Hugo-Hunchback.jpg"
 tags:
 title: "Testing, testing"
 ---

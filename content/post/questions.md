@@ -1,7 +1,7 @@
 ---
 date: 2018-11-02T11:25:05-04:00
 description: "Questions"
-featured_image: "/images/esmeralda.jpg"
+featured_image: ""
 tags: []
 title: "We have questions"
 ---
