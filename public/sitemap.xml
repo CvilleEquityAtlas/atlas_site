@@ -70,6 +70,12 @@
   </url>
   
   <url>
+    <loc>https://cvilleequityatlas.github.io/about/media/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://cvilleequityatlas.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
