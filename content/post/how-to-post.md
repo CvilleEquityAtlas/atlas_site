@@ -1,6 +1,6 @@
 ---
 title: "How to Post"
-date: 2018-11-04T13:25:36-04:00
+date: 2018-11-04T14:44:35-05:00
 description: "A how-to guide for adding a blog post"
 featured_image: "/images/avonst_graffiti_bob_mical.png"
 categories: []

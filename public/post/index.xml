@@ -14,7 +14,7 @@
     <item>
       <title>How to Post</title>
       <link>https://cvilleequityatlas.github.io/post/how-to-post/</link>
-      <pubDate>Sun, 04 Nov 2018 13:25:36 -0400</pubDate>
+      <pubDate>Sun, 04 Nov 2018 14:44:35 -0500</pubDate>
       
       <guid>https://cvilleequityatlas.github.io/post/how-to-post/</guid>
       <description>Method the first: independent updates To directly add a post to this blog as a collaborator requires,
@@ -24,7 +24,7 @@
     <item>
       <title>Publish Changes</title>
       <link>https://cvilleequityatlas.github.io/post/publish-changes/</link>
-      <pubDate>Sat, 03 Nov 2018 17:12:26 -0400</pubDate>
+      <pubDate>Sat, 03 Nov 2018 14:44:35 -0500</pubDate>
       
       <guid>https://cvilleequityatlas.github.io/post/publish-changes/</guid>
       <description>In the atlas_site repo, I added a publish-changes.sh shell script to make updates a little simpler. Once a new post has been added (or any change) in atlas_site/content (or anywhere), from the terminal run
@@ -34,7 +34,7 @@ bash publish_changes.sh  This will automatically rebuild the site (issue the com
     <item>
       <title>Testing</title>
       <link>https://cvilleequityatlas.github.io/post/testing/</link>
-      <pubDate>Sat, 03 Nov 2018 12:22:22 -0500</pubDate>
+      <pubDate>Fri, 02 Nov 2018 14:44:35 -0500</pubDate>
       
       <guid>https://cvilleequityatlas.github.io/post/testing/</guid>
       <description>Testing, testing&amp;hellip; let&amp;rsquo;s see how this looks.</description>
