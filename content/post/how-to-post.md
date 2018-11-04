@@ -2,7 +2,7 @@
 title: "How to Post"
 date: 2018-11-03T17:25:36-04:00
 description: "A how-to guide for adding a blog post"
-featured_image: "/images/Students_Monroe_Hall_Courtyard_04.jpg"
+featured_image: "/images/Students_Monroe_Hall_Courtyard_04.png"
 categories: []
 ---
 
