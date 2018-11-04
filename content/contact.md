@@ -7,8 +7,7 @@ menu:
 
 ---
 
-
-Tried adding a shortcode, based on [Formspree](https://formspree.io/). Need to test it, but if it works we can add an invitation here.
+If you've got suggestions or ideas for the project, expertise or information to contribute, or questions or concerns, we'd love to hear from you.
 
 
 {{< form-contact action="https://formspree.io/mclaibourn@virginia.edu"  >}}
