@@ -1,7 +1,7 @@
 ---
 title: "Publish Changes"
 date: 2018-11-03T17:12:26-04:00
-draft: false
+featured_image: "/images/uva_wall_beggs.png"
 tags: []
 categories: []
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2018-11-02T11:25:05-04:00
 description: "Questions"
-featured_image: ""
+featured_image: "/images/avonst_graffiti_bob_mical.png"
 tags: []
 title: "We have questions"
 ---

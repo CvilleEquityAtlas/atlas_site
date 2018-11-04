@@ -1,7 +1,7 @@
 ---
 date: 2018-11-03T11:15:58-04:00
 description: "Answers"
-featured_image: ""
+featured_image: "/images/Downtown_Charlottesville_SS_02.jpg"
 tags: []
 title: "Can this work?"
 ---
