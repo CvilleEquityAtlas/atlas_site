@@ -1,9 +1,9 @@
 ---
-date: 2018-11-01T11:14:48-04:00
-description: "First blog post"
-featured_image: "/images/Victor_Hugo-Hunchback.jpg"
-tags:
-title: "Testing, testing"
+title: "Testing"
+date: 2018-11-03T12:22:22-05:00
+description: ""
+featured_image: "/images/Students_Monroe_Hall_Courtyard_04.png"
+categories: []
 ---
 
-Testing out the site, adding a new post...
+Testing, testing... let's see how this looks.

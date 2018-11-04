@@ -14,11 +14,11 @@
     <item>
       <title>How to Post</title>
       <link>https://cvilleequityatlas.github.io/post/how-to-post/</link>
-      <pubDate>Sat, 03 Nov 2018 17:25:36 -0400</pubDate>
+      <pubDate>Sun, 04 Nov 2018 13:25:36 -0400</pubDate>
       
       <guid>https://cvilleequityatlas.github.io/post/how-to-post/</guid>
       <description>Method the first: independent updates To directly add a post to this blog as a collaborator requires,
- If you don&amp;rsquo;t yet have a github account, get one; download and install git. In the end, your life will be easier if you take the time to set up ssh as well &amp;ndash; I really like Karl Broman&amp;rsquo;s explanation of these steps. Be added as a collaborator to the organizational account, github.</description>
+ If you don&amp;rsquo;t yet have a github account, get one; download and install git. In the end, your life will be easier if you take the time to set up ssh as well &amp;ndash; I really like Karl Broman&amp;rsquo;s explanation of these steps. While you&amp;rsquo;re at it, install hugo. Be added as a collaborator to the organizational account, github.</description>
     </item>
     
     <item>
@@ -32,32 +32,12 @@ bash publish_changes.sh  This will automatically rebuild the site (issue the com
     </item>
     
     <item>
-      <title>Can this work?</title>
-      <link>https://cvilleequityatlas.github.io/post/answers/</link>
-      <pubDate>Sat, 03 Nov 2018 11:15:58 -0400</pubDate>
-      
-      <guid>https://cvilleequityatlas.github.io/post/answers/</guid>
-      <description>To add a post, we need to first add it in atlas_site/content/post/new-post.md. Then regenerate the webiste by running the command hugo in the terminal (within the atlas_site folder). Then go ahead and
-git add . git commit -m &amp;quot;appropriate message&amp;quot; ]git push origin master  But this only updates the site code in the atlas_site repo: github.com/CvilleEquityAtlas/atlas_site
-To update the generated site, we cd into the public folder, and do it against</description>
-    </item>
-    
-    <item>
-      <title>We have questions</title>
-      <link>https://cvilleequityatlas.github.io/post/questions/</link>
-      <pubDate>Fri, 02 Nov 2018 11:25:05 -0400</pubDate>
-      
-      <guid>https://cvilleequityatlas.github.io/post/questions/</guid>
-      <description>Can we update or generate a post by editing a markdown file in github directly? Let&amp;rsquo;s see&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Testing, testing</title>
+      <title>Testing</title>
       <link>https://cvilleequityatlas.github.io/post/testing/</link>
-      <pubDate>Thu, 01 Nov 2018 11:14:48 -0400</pubDate>
+      <pubDate>Sat, 03 Nov 2018 12:22:22 -0500</pubDate>
       
       <guid>https://cvilleequityatlas.github.io/post/testing/</guid>
-      <description>Testing out the site, adding a new post&amp;hellip;</description>
+      <description>Testing, testing&amp;hellip; let&amp;rsquo;s see how this looks.</description>
     </item>
     
   </channel>
